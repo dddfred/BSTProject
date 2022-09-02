@@ -6,4 +6,4 @@ Binary Search Tree Project that takes in a text and analyzes it giving you a rep
 
 # WHAT I LEARNED
 
-I learned to use binary search trees to anylyze files and numbers, how to organize them in different ways and make changes to said tree.
+I learned to use binary search trees to analyze files and numbers, how to organize them in different ways and make changes to said tree.
